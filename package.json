@@ -1,0 +1,26 @@
+{
+  "name": "test-patterns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oedersonmacedo/test-patterns.git"
+  },
+  "keywords": [],
+  "author": "Ederson Macedo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oedersonmacedo/test-patterns/issues"
+  },
+  "homepage": "https://github.com/oedersonmacedo/test-patterns#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "jest": "^29.4.3",
+    "pg-promise": "^11.3.0",
+    "sinon": "^15.0.1"
+  }
+}
